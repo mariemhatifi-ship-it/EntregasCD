@@ -1,0 +1,21 @@
+# Ejercicios - Tema 1: Git
+
+## Ejercicio 1 -Trabajo co ramas
+
+```console
+$ git log --oneline --graph --all
+*   dcb9f1e (HEAD -> main) Merge branch 'feature/gestion-libros'
+|\  
+| * 93fd8cb (feature/gestion-libros) añadido isbn
+| * f94de37 añadidos titulo y autor del libro
+|/  
+| * b331d99 (feature/gestion-usuarios) añadidos primeros atributos
+|/  
+| * 810d0a1 (feature/usuarios) añadidos primeros atributos
+|/  
+* 160edb7 creado archivo notas
+* bdb53ad añadido git ignore
+* 36e73b1 Añadido el readme
+
+
+```
